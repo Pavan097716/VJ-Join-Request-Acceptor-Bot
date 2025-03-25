@@ -2,7 +2,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "20793620"))
 API_HASH = environ.get("API_HASH", "a712d2b8486f26c4dee5127cc9ae0615")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7966013957:AAFOzG-__JKwT-uhiLihKPlOJ28-3AueL98")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8010179329:AAEcvL08wwIKrKkskRqPmWs0-sCvt0VPgZw")
 
 # Make Bot Admin In Log Channel With Full Rights
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "1002296271857"))
